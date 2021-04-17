@@ -1,0 +1,2 @@
+# Tanto
+Norns Sample Slicer
